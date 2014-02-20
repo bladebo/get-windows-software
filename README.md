@@ -5,6 +5,10 @@ Download link repository for common free (as in free beer) windows software.
 
 Why? Because everytime I have to use Windows, installaling sofware is a chore, so I've decided to make a list.
 
+#Multi-Installateurs
+###Ninite
+* [Project Site](http://ninite.com/)
+
 #Web
 ##Browsers
 
