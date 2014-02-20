@@ -12,8 +12,10 @@ Why? Because everytime I have to use Windows, installaling sofware is a chore, s
 ##Logiciels portables
 ###Portable Apps
 * [Project Site](http://portableapps.com/)
+
 ###Liberkey
 * [Project Site](http://www.liberkey.com/)
+
 ###Framakey
 * [Project Site](http://www.framakey.org/)
 
