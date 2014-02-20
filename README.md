@@ -110,3 +110,19 @@ It is pretty hard to find the full installers for flash player. They are not dir
 * [Project Page] (http://www.skype.com/)
 * [Download Page] (http://www.skype.com/download-skype/)
 
+
+#Autres listes
+###CNRS
+* [Project Page] (https://www.projet-plume.org/)
+
+###ANSSI
+* [Project Page] (http://www.ssi.gouv.fr/fr/produits-et-prestataires/produits-certifies-cspn/) Produits Certifiés
+
+###Pack Logiciels Libre
+* [Project Page] (http://www.pack-logiciels-libres.fr/) - Liste Logiciels Libre entreprise par CCI-Feder-Chambre métiers et artisanats
+ 
+###UpdateEngine
+* [Project Page] (http://www.updatengine.com) - déploiement automatisé de logiciels 
+
+###AlternativeTo
+* [Project Page] (http://alternativeto.net) - Trouver des logiciels alternatifs pour tout type de supports/catégories
